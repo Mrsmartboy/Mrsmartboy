@@ -68,9 +68,12 @@ I love **traveling**, **shopping**, and getting lost in **novels**!
 
 ## 💡 Favorite Quote
 > "Success is the result of perseverance and optimism." – My Father, David
+> 
 
 ---
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Mrsmartboy/Mrsmartboy/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 
 
