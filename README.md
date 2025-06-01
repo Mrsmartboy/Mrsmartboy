@@ -73,7 +73,8 @@ I love **traveling**, **shopping**, and getting lost in **novels**!
 ---
 
 ## 🐍 My Contributions
-![Snake animation](https://github.com/Mrsmartboy/Mrsmartboy/blob/output/github-contribution-grid-snake.gif)
+![Snake animation (dark)](https://github.com/Mrsmartboy/Mrsmartboy/blob/output/dist/github-contribution-grid-snake-dark.svg)
+
 
 
 
