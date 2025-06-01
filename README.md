@@ -71,13 +71,8 @@ I love **traveling**, **shopping**, and getting lost in **novels**!
 
 ---
 
-# 🏰 Inspired by Fellow Developers
 
-## 👋 Hello From Sai Teja's Dungeon
 
-> _"Leveling up my skills to become the strongest Developer!"_
-
-Greetings, hunter! I’m **Sai Teja**, a **Full Stack Developer** grinding hard like **Sung Jin-Woo** to reach **S-rank**!
 
 ### ⚔️ Frontend
 - **Languages**: HTML5, CSS3, JavaScript
@@ -93,21 +88,10 @@ Greetings, hunter! I’m **Sai Teja**, a **Full Stack Developer** grinding hard 
 ### 🧙 Tools & Magic
 - Git, GitHub, Docker, Selenium, Cloudinary
 
-### 💼 Epic Projects
-- **[Wanderlust Booking](https://wanderlust-mern-ic8u.onrender.com/listings)** ([Repo](https://github.com/thesaiteja24/wanderlust-mern))
-- **[Simon Says Game](https://sai-teja-web-dev-projects.on.drv.tw/www.saiteja.dev/)** ([Repo](https://github.com/thesaiteja24/javascript-simon-says))
 
-### 🧧 Quest Log
-- Machine Learning
-- WebRTC for video
-- Hackathon prep!
 
-### 📊 Contribution Stats
-![Sai GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesaiteja24&show_icons=true&theme=highcontrast)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=thesaiteja24&theme=highcontrast)
 
-### 🤝 Connect with Sai
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiteja.patsa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitejapatsa)
+
+
 
 > Thanks for visiting my dungeon! Let’s level up together 💪
