@@ -52,7 +52,6 @@ I love **traveling**, **shopping**, and getting lost in **novels**!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsmartboy&layout=compact&theme=dark&hide_border=true)
 
 ## 🚀 Projects
-- **[nxtTrendz](https://github.com/Mrsmartboy/nxtTrendz)**: Trending shopping app.
 - **[Jobby-App](https://github.com/Mrsmartboy/Jobby-App)**: Job search platform.
 
 ## 🌍 Hobbies
