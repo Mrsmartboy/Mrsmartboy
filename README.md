@@ -2,7 +2,6 @@
 Hi, I'm **Joseph (MrSmartboy)** — a passionate MERN Stack Developer from Nandyal, Gadivemula! Born on **November 6th, 2000**, I’m the eldest of five siblings and currently pursuing an **M.Sc. in Computer Science** at a prestigious Central University in Tirupathi, maintaining a **CGPA of 8.5**.
 
 ## 📝 Projects I’m Working On
-- [nxtTrendz](https://github.com/Mrsmartboy/nxtTrendz)
 - [Jobby-App](https://github.com/Mrsmartboy/Jobby-App)
 
 ## 🌱 Currently Learning
